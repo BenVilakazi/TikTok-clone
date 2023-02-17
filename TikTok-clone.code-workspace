@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/project_tiktik-main/components"
+		},
+		{
+			"path": "../../../Downloads/project_tiktik-main/pages"
+		},
+		{
+			"path": "../../../Downloads/project_tiktik-main/public"
+		},
+		{
+			"path": "../../../Downloads/project_tiktik-main/sanitybackend"
+		},
+		{
+			"path": "../../../Downloads/project_tiktik-main/store"
+		},
+		{
+			"path": "../../../Downloads/project_tiktik-main/styles"
+		},
+		{
+			"path": "../../../Downloads/project_tiktik-main/utils"
+		}
+	],
+	"settings": {}
+}
